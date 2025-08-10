@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://myjobwell.github.io/mips-/index.html</loc>
-    <lastmod>{{LASTMOD_YYYYMMDD}}</lastmod>
+    <lastmod>2025-08-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://myjobwell.github.io/mips-/termos.html</loc>
-    <lastmod>{{LASTMOD_YYYYMMDD}}</lastmod>
+    <lastmod>2025-08-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://myjobwell.github.io/mips-/exclusao-conta.html</loc>
-    <lastmod>{{LASTMOD_YYYYMMDD}}</lastmod>
+    <lastmod>2025-08-10</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.8</priority>
   </url>
